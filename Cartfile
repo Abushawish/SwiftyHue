@@ -1,4 +1,4 @@
 github "delba/Log"
 github "Alamofire/Alamofire"
-github "robbiehanson/CocoaAsyncSocket"
+github "robbiehanson/CocoaAsyncSocket" "master"
 github "hkellaway/Gloss" "develop"
